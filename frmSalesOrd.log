@@ -1,0 +1,35 @@
+Line 137: Class MSComCtl2.DTPicker of control dtpDateReq was not a loaded control class.
+Line 150: Class MSComCtl2.DTPicker of control dtpDateOrd was not a loaded control class.
+Line 163: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control MSHFlexGrid1 was not a loaded control class.
+Line 185: Class MSComctlLib.ListView of control lvwOrder was not a loaded control class.
+Line 143: The property name _ExtentX in dtpDateReq is invalid.
+Line 144: The property name _ExtentY in dtpDateReq is invalid.
+Line 145: The property name _Version in dtpDateReq is invalid.
+Line 146: The property name CalendarBackColor in dtpDateReq is invalid.
+Line 147: The property name Format in dtpDateReq is invalid.
+Line 148: The property name CurrentDate in dtpDateReq is invalid.
+Line 156: The property name _ExtentX in dtpDateOrd is invalid.
+Line 157: The property name _ExtentY in dtpDateOrd is invalid.
+Line 158: The property name _Version in dtpDateOrd is invalid.
+Line 159: The property name CalendarBackColor in dtpDateOrd is invalid.
+Line 160: The property name Format in dtpDateOrd is invalid.
+Line 161: The property name CurrentDate in dtpDateOrd is invalid.
+Line 169: The property name _ExtentX in MSHFlexGrid1 is invalid.
+Line 170: The property name _ExtentY in MSHFlexGrid1 is invalid.
+Line 171: The property name _Version in MSHFlexGrid1 is invalid.
+Line 182: The property name _NumberOfBands in MSHFlexGrid1 is invalid.
+Line 183: The property name _Band(0).Cols in MSHFlexGrid1 is invalid.
+Line 191: The property name _ExtentX in lvwOrder is invalid.
+Line 192: The property name _ExtentY in lvwOrder is invalid.
+Line 193: The property name View in lvwOrder is invalid.
+Line 194: The property name LabelWrap in lvwOrder is invalid.
+Line 195: The property name HideSelection in lvwOrder is invalid.
+Line 196: The property name _Version in lvwOrder is invalid.
+Line 210: The property name NumItems in lvwOrder is invalid.
+Line 214: The property name ColumnHeader(1) in lvwOrder is invalid.
+Line 219: The property name ColumnHeader(2) in lvwOrder is invalid.
+Line 224: The property name ColumnHeader(3) in lvwOrder is invalid.
+Line 229: The property name ColumnHeader(4) in lvwOrder is invalid.
+Line 234: The property name ColumnHeader(5) in lvwOrder is invalid.
+Line 239: The property name ColumnHeader(6) in lvwOrder is invalid.
+Line 244: The property name ColumnHeader(7) in lvwOrder is invalid.
